@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">♛♥彡𝐖𝐚𝐫 𝐀𝐥𝐢𝐨𝐧𝐜𝐞 𝐑𝐮𝐋𝐞𝐱♛♥☨</h1>
+    <h1 class="mt-3">♛♥彡FUCKER BOY PANKU HARE ✍️♛♥☨</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -168,7 +168,7 @@ def send_message():
   </div>
   <footer class="footer">
     <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️PANKU DON ON TABHAI😈🐧</p>
-    <p> FUCKER BOY PANKU HARE 🖤✍️<a href="https://www.facebook.com/BL9CK.D3V1L">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p> FUCKER BOY PANKU HARE ✍️<a href="https://www.facebook.com/BL9CK.D3V1L">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+919257147026" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
